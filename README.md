@@ -17,7 +17,7 @@
 <pre><code>pip install numpy matplotlib seaborn scikit-learn xgboost opencv-python</code></pre>
 
 <h2>Usage</h2>
-<pre><code>python mnist_svm_xgboost.py</code></pre>
+<pre><code>python svm_xgb.ipynb</code></pre>
 
 <h2>Code Structure</h2>
 <ul>
