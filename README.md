@@ -35,5 +35,3 @@ SVM Accuracy: 0.9806
 Training XGBoost...
 XGBoost Accuracy: 0.9524</code></pre>
 
-<h2>License</h2>
-<p>MIT License</p>
